@@ -14,16 +14,6 @@ Conjunto de sistemas e agentes construídos para acompanhamento de performance i
 
 ---
 
-## Impacto consolidado
-
-- **+89%** de crescimento de headcount coberto (jun/25 → out/26)
-- **+203%** de produtividade em picking desde implantação do sistema
-- **74 mil** feedbacks individuais processados (nov/25 → out/26)
-- **193.870** acessos ao totem diário por **2.272 colaboradores únicos**
-- **148.670** acessos ao totem semanal por **2.628 colaboradores únicos**
-
----
-
 ## Arquitetura geral
 
 ```
